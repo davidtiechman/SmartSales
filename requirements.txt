@@ -1,0 +1,6 @@
+supabase
+pandas
+fastapi
+uvicorn
+dotenv
+resend
